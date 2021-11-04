@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
+  "name": "ng-display",
   "version": "10.1.0",
-  "description": "Angular 12 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "description": "Display Application built on Angular",
+  "homepage": "",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Jeffrey Xavier",
+    "email": "jpxavier11@gmail.com"
   },
   "keywords": [
     "angular",
